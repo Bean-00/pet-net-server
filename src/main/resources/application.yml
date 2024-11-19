@@ -3,7 +3,7 @@ spring:
     name: pet-net-server
 logging:
   level:
-    root: DEBUG
+    root: INFO
 server:
   port: 8080
 jasypt:
